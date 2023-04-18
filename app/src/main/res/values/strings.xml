@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CheersApp</string>
+    <string name="hid">Телекомпания Хороший Внешний Вид Представляет</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="toScreen">Нажать после просмотра видео! (не жульничать)</string>
+    <string name="conclusionText">App made by RomanRazdorov</string>
+    <string name="Text">Сёма, поздравляю тебя с днём рождения! Это приложение-открытка была сделана специально для тебя :)</string>
+    <string name="vk">https://vk.com/romanrazdorov</string>
+</resources>
